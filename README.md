@@ -1,5 +1,6 @@
 # SeleniumJavaMiniprogram, using testng
 Mini program UI automation
+
 一. 这是两个小程序的UI自动化，分为4个阶段：
 1. 报修端报修一个新单子
 2. 维修端接单并维修，最后提交验收
